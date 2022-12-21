@@ -1,3 +1,5 @@
-apple
-orange
-pear
+This is a new document.
+Line number 2.
+Line number 3.
+Line number 4.
+End of page.
